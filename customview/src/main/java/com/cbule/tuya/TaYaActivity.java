@@ -10,7 +10,7 @@ public class TaYaActivity extends AppCompatActivity {
 
 
 
-//    whahwhahhhahwhwh
+//22222222222222222222222222222
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
